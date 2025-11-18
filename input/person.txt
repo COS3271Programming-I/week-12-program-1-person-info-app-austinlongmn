@@ -1,0 +1,8 @@
+Bob
+Jones
+Male
+23
+100
+50
+Caucasian
+Christian
